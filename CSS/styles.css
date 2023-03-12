@@ -1,0 +1,213 @@
+
+       body {
+        margin: 0;
+       }
+        
+        .Paragraph{
+            color: black;
+            position: absolute;
+            bottom: 30%;
+            width: 100%;
+            text-align: center;
+            font-size: 2rem;
+  
+        }
+        .Profile {
+            width: 300px;
+
+        }
+        .Middle{
+            text-align: center;
+            position: relative;
+            left: 10px;
+            margin: 100px, 0;
+        }
+        
+        .Top
+        {
+            position: relative;
+            width: 90%;
+            margin: 0 auto;
+            left: 10px;
+        }
+        .Top img{
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            margin-right: 100%
+        }
+        .heading{
+            color: black;
+            position: absolute;
+            top: 30%;
+            width: 100%;
+            text-align: center;
+            font-size: 6rem;
+
+        }
+        body {
+          background-color:  #865DFF;
+          align-items: center;
+          margin: 0 auto 0 auto;
+          
+        }
+        .sports{
+            width: 200px;
+            float: left;
+            margin-left: 100px;
+        }
+        hr {
+            background-color: #865DFF;
+            border-style: none;
+            border-top-style: dotted;
+            border-width: 10px;
+            border-color: grey;
+            width: 5%;
+        }
+        .Clanguage{
+            width: 100px;
+
+        }
+        .Skills{
+            width: 400px;
+            display: inline-block;
+ 
+        }
+        .Cplus{
+            width: 90px;
+            display: inline-block;
+        }
+        .java{
+            width: 170px;
+            display: inline-block;
+        }
+        .SQL{
+            width: 130px;
+            display: inline-block;s  
+        }
+        .Web{
+            width: 230px;
+            display: inline-block;s  
+        }
+
+        .Hii{
+            font-family: 'Times New Roman', Times, serif;
+            color: #F9DBBB;
+            font-size: 4rem;
+        }
+
+        h1 {
+            color: rgb(147, 68, 222);
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        h3 {
+            color: white;  
+            font-size: 5.28em;
+        }
+        img{
+           width: 100%;
+           height: 100%;
+        }
+        .Paragraph{
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            bottom: 100px;
+        }
+        .style{
+            font-style: oblique;
+            color: #FFA3FD;
+            font-size: 5rem;
+        }
+        p{
+        font-size: 2rem;
+        }
+        .A{
+            font-size: 4rem;
+            padding-right: 500px;
+        }
+        .B{
+            font-size: 4rem;
+            padding-left: 500px;
+        }
+        .New{
+            width: 200px;
+            float: right;
+            margin-left: 100px;
+            padding-left: 100px;
+ 
+        }
+        #Bottomh1{
+            color: beige;
+            width: 60%;
+            margin: 40px auto 80px;
+            padding-right: 100px;
+            margin: left;
+            font-size: 5rem;
+            font-family: monospace;
+            color: wheat;
+        }
+        .Contact-Button{
+            color: beige;
+        font-size: 5rem;    
+        }
+        .Third{
+            width: 300px;
+            float: left;
+            margin-left: 100px;
+            padding-right: 500px;
+        }
+        .C{
+            font-size: 4rem;
+            padding-right: 500px;
+            padding-left: 400px;
+            top: 100px;
+        }
+        .contact-message{
+            width: 40%;
+            margin: 40px auto 80px;
+        }
+    
+.buttonClass {
+    font-size:24px;
+    font-family:Arial;
+    width:178px;
+    height:71px;
+    border-width:2px;
+    color:white;
+    border-color:#1f2f47;
+    font-weight:bold;
+    border-top-left-radius:17px;
+    border-top-right-radius:17px;
+    border-bottom-left-radius:17px;
+    border-bottom-right-radius:17px;
+    box-shadow:inset 0px 0px 15px 3px #23395e;
+    text-shadow:inset 0px 1px 0px #263666;
+    background:linear-gradient(#2e466e, #415989);
+    font-size: 2rem;
+    text-decoration: none;
+  }
+  
+  .buttonClass:hover {
+    background: linear-gradient(#415989, #2e466e);
+  }
+                
+  .Footor{
+    background-color: #1A120B;
+    padding: 50px 0 20px;
+  }
+  .footorp{
+    font-size: 0.75rem;
+    color: white;
+    padding: 20px 0px;
+
+  }
+  a{
+    color: #865DFF;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+  a:hover{
+    color: #EAF6F6;
+  }
+
+  
